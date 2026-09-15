@@ -5,21 +5,21 @@ This is a **user authentication system** built using **Node.js, Express, MongoDB
 
 ---
 
-### 🎯 Features  
+### Features  
 - User signup with **password hashing** (bcrypt) and **Base64 encoding**  
 - JWT-based authentication for **secure session management**  
 - Static file serving for frontend integration  
 
 ---
 
-### 🔧 Prerequisites  
+### Prerequisites  
 
 - **Node.js**   
 - **MongoDB Atlas account**   
 
 ---
 
-### 📦 Install Dependiencies
+### Install Dependiencies
 
 <code> npm install express body-parser mongodb bcryptjs jsonwebtoken </code>
 
@@ -28,7 +28,7 @@ This is a **user authentication system** built using **Node.js, Express, MongoDB
 ### Run
 <code> node app.js </code>
 
-<i>**⚠️(Adjust the file paths in app.js according to your project location and MongoDB connection URL and database name).⚠️**</i>
+<i>**(Adjust the file paths in app.js according to your project location and MongoDB connection URL and database name).⚠️**</i>
 
 ---
 
